@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <user>
+        <username id='100001'>Miku</username>
+        <username id='100002'>Luka</username>
+        <username id='100003'>Rin </username>
+    </user>
+    <admin>    
+        <username id='_2333_'>flag{not_only_inj3ction}</username>
+    </admin>
+</root>

@@ -66,6 +66,8 @@
 			<button class="chal-button" value="bypass"><p>bypass</p></button>
 			<button class="chal-button" value="smile"><p>smile</p></button>
 			<button class="chal-button" value="filter"><p>filter</p></button>
+			<button class="chal-button" value="include"><p>include</p></button>
+			<button class="chal-button" value="cypto"><p>cypto</p></button>
 		</div>
 	</div>
 </div>

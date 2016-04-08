@@ -68,6 +68,7 @@
 			<button class="chal-button" value="filter"><p>filter</p></button>
 			<button class="chal-button" value="include"><p>include</p></button>
 			<button class="chal-button" value="cypto"><p>cypto</p></button>
+			<button class="chal-button" value="evil"><p>evil</p></button>
 		</div>
 	</div>
 </div>

@@ -23,8 +23,8 @@
 		$re = array('and','or','count','select','from','union','group','by','limit','insert','where','order','alter','delete','having','max','min','avg','sum','sqrt','rand','concat','sleep');
 		$pattern = '/'.implode('|', $re).'/';    
 		$query = $_SERVER['QUERY_STRING'];
-		$query = strtolower($query);
 		$query = urldecode($query);
+		$query = strtolower($query);
 		return preg_match($pattern, $query);
 	}
 
@@ -45,7 +45,7 @@
 	}
 
 	//payload
-	//?area=hangzhou' %26%26 (substr(load_file('D:/wamp/www/rumRaisin/challenge/filter/filter.php'),1,1)='<') %23
+	//?area=hangzhou' %26%26 (substr(load_file('path'),1,1)='<') %23
 ?>
 <!DOCTYPE html>
 <html>

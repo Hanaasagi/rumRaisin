@@ -70,6 +70,7 @@
 			<button class="chal-button" value="cypto"><p>cypto</p></button>
 			<button class="chal-button" value="evil"><p>evil</p></button>
 			<button class="chal-button" value="Octocat"><p>Octocat</p></button>
+			<button class="chal-button" value="injection"><p>injection</p></button>
 		</div>
 	</div>
 </div>

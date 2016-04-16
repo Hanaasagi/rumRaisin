@@ -39,7 +39,9 @@
 				"insert into student(`id`,`name`,`area`,`sex`,`age`,`telphone`) values ('1085','doris','suzhou','f','16','13709268821')",
 				"insert into student(`id`,`name`,`area`,`sex`,`age`,`telphone`) values ('1086','michael','suzhou','m','20','13720593756')",
 				"insert into student(`id`,`name`,`area`,`sex`,`age`,`telphone`) values ('1092','alina','hangzhou','f','18','18630296552')",
-				"insert into student(`id`,`name`,`area`,`sex`,`age`,`telphone`) values ('1096','doris','hangzhou','f','22','18697281205')"
+				"insert into student(`id`,`name`,`area`,`sex`,`age`,`telphone`) values ('1096','doris','hangzhou','f','22','18697281205')",
+				"create table injection( `key1` varchar(32) not null, `key2` varchar(32) not null)",
+				"insert into injection(`key1`,`key2`) values ('39e66f4f7f6b8ea829fd301297b6fbff','a7dba1ef4d170c914199f44775549f85')"
 			);
 	for($i=0;$i<count($arr);$i++){
 		mysqli_query($conn,$arr[$i]);

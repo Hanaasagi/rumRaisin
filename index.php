@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 	<title>rumRaisin</title>
@@ -67,7 +67,7 @@
 			<button class="chal-button" value="smile"><p>smile</p></button>
 			<button class="chal-button" value="filter"><p>filter</p></button>
 			<button class="chal-button" value="include"><p>include</p></button>
-			<button class="chal-button" value="cypto"><p>cypto</p></button>
+			<button class="chal-button" value="crypto"><p>cypto</p></button>
 			<button class="chal-button" value="evil"><p>evil</p></button>
 			<button class="chal-button" value="Octocat"><p>Octocat</p></button>
 			<button class="chal-button" value="injection"><p>injection</p></button>
